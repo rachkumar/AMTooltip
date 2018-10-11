@@ -123,7 +123,7 @@
 				TargetAttributes = {
 					AB39CE6F1E907B11001650F8 = {
 						CreatedOnToolsVersion = 8.2;
-						DevelopmentTeam = 4J5W7CJ2ZV;
+						DevelopmentTeam = PAA7YUXLR6;
 						LastSwiftMigration = 0820;
 						ProvisioningStyle = Automatic;
 					};
@@ -338,10 +338,10 @@
 			baseConfigurationReference = CF23C928DF6FDA02B64D011D /* Pods-AMTooltip_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 4J5W7CJ2ZV;
+				DEVELOPMENT_TEAM = PAA7YUXLR6;
 				INFOPLIST_FILE = AMTooltip_Example/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "eu.amirs.AMTooltip-Example";
+				PRODUCT_BUNDLE_IDENTIFIER = "eu.sample.AMTooltip-Example";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -352,10 +352,10 @@
 			baseConfigurationReference = 88E94190E5727037A13CF7D2 /* Pods-AMTooltip_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 4J5W7CJ2ZV;
+				DEVELOPMENT_TEAM = PAA7YUXLR6;
 				INFOPLIST_FILE = AMTooltip_Example/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "eu.amirs.AMTooltip-Example";
+				PRODUCT_BUNDLE_IDENTIFIER = "eu.sample.AMTooltip-Example";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
