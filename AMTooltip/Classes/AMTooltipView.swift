@@ -316,7 +316,7 @@ open class AMTooltipView: UIView {
     }
     
     
-    func hideByTapGesture(){
+    @objc func hideByTapGesture(){
     
         self.hide(completeClosure)
     
@@ -482,7 +482,7 @@ open class AMTooltipView: UIView {
     
     //MARK: - rotate hande
     
-    func deviceOrientationDidChangeNotification(notification:NSNotification){
+    @objc func deviceOrientationDidChangeNotification(notification:NSNotification){
         
         self.hide { 
             
